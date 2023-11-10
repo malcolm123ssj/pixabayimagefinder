@@ -19,7 +19,7 @@
     "@react-native-community/masked-view": "^0.1.0",
     "react-native-safe-area-context": "^0.6.0",
     "react-native-screens": "^2.0.0",
-    "axios": "0.19.2"
+    "axios": "1.6.0"
   },
   "devDependencies": {
     "babel-preset-expo": "~8.1.0",
